@@ -1,2 +1,5 @@
 # BitnovaChartsDemo
-Bitnova Charts product — focusing on data visualization, analytics dashboards, and .NET integration. It’s optimized to rank for keywords like “.NET charts,” “C# data visualization,” “Windows Forms charts,” and “developer tools.”
+Turn complex data into beautiful insights with Bitnova Charts, a next-generation charting toolkit built for C# and VB.NET developers.
+Part of the Bitnova Framework, Bitnova Charts delivers smooth, interactive, and customizable chart components for Windows Forms applications.
+
+Whether you're building dashboards, analytics panels, or enterprise reporting tools, Bitnova Charts helps you visualize data like never before - all with lightweight performance and stunning modern design.
